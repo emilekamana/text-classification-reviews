@@ -23,5 +23,5 @@ if st.button("Predict Rating"):
         label = result[0]['label']
         rating = label2id[label] + 1
 
-        st.write(f"Predicted Rating: {rating} {label}  { '👎' if rating<=2 else '👎'}")
+        st.write(f"Predicted Rating: {rating} {label}  { '👎' if rating<=2 else '👍'}")
 
