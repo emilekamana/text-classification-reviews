@@ -1,0 +1,2 @@
+id2label = {0: "Very Dissatisfied", 1: "Dissatisfied", 2: "Neutral", 3: "Satisfied", 4: "Very Satisfied"}
+label2id = {"Very Dissatisfied": 0, "Dissatisfied": 1, "Neutral": 2, "Satisfied": 3, "Very Satisfied": 4}
