@@ -1,4 +1,4 @@
-from transformers import TFAutoModelForSequenceClassification,AutoTokenizer, pipeline
+from transformers import pipeline
 import streamlit as st
 from utils import id2label, label2id
 
